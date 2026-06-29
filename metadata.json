@@ -1,0 +1,6 @@
+{
+  "name": "KepokScan",
+  "description": "KepokScan is a professional, high-density Web Security Assessment Toolkit designed for compliance auditing, cookie inspection, server footprinting, and automated mitigation planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
