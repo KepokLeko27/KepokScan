@@ -78,7 +78,7 @@ To optionally enable the **AI Security Audit** (powered by Gemini Pro):
    cp .env.example .env
    ```
 
-2. **Configure your Gemini API key**:
+2. **Configure your API key**:
    Open `.env` and assign your key:
    ```env
    API_KEY=your_api_key_here
