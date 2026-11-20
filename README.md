@@ -81,7 +81,7 @@ To optionally enable the **AI Security Audit** (powered by Gemini Pro):
 2. **Configure your Gemini API key**:
    Open `.env` and assign your key:
    ```env
-   GEMINI_API_KEY=your_gemini_api_key_here
+   API_KEY=your_api_key_here
    ```
 
 3. Restart your dev server to load the new environment variables.
